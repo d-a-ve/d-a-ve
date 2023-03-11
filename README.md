@@ -2,7 +2,7 @@
 # Hi there, Welcome! 👋
 
 
-I'm Dave, a frontend developer located in Nigeria. Since February 2022, I have been working in the tech industry dedicated to learning and creating visually appealing and user-friendly websites and web apps.
+I'm Dave, a frontend developer based in Nigeria. Since February 2022, I have been working in the tech industry dedicating my time to learning and creating visually appealing and user-friendly websites and web apps.
 
 My goal as a frontend developer is to create interfaces that provide an exceptional user experience. I strive to ensure that every design decision I make is based on creating an interface that is easy to use and enhances the overall user experience.
 
