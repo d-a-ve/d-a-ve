@@ -18,7 +18,10 @@ If you are looking for a skilled and experienced frontend developer to create a 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Chakra](https://img.shields.io/badge/chakra-38B2AC?style=for-the-badge&logo=chakra-Ui&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=0081CB)
+
+
 ## 🤙 Reach me
+
 [![Gmail](https://img.shields.io/badge/davearonmwan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davearonmwan@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvng__dave)
 
@@ -36,9 +39,12 @@ If you are looking for a skilled and experienced frontend developer to create a 
 🤝 I am open to collaborations on project and ideas
 
 
-##  My GitHub Stats
-[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)](https://github.com/d-a-ve/github-readme-stats)
+## 📊 My GitHub Stats
+[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue#gh_light_only)](https://github.com/d-a-ve/github-readme-stats)
+[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue_dark#gh-dark-only)](https://github.com/d-a-ve/github-readme-stats)
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
+![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue#gh_light_only)
+![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue_dark#gh-dark-only)
 
-![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Eniola-Codes&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
+![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-a-ve&theme=vue#gh_light_only)
+![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-a-ve&theme=vue_dark#gh-dark-only)
