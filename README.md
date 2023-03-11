@@ -20,7 +20,6 @@ If you are looking for a skilled and experienced frontend developer to create a 
 ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=0081CB)
 ## 🤙 Reach me
 [![Gmail](https://img.shields.io/badge/davearonmwan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davearonmwan@gmail.com)
-
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvng__dave)
 
 
