@@ -9,6 +9,7 @@ My goal as a frontend developer is to create interfaces that provide an exceptio
 If you are looking for a skilled and experienced frontend developer to create a web application or a website that is both visually appealing and user-friendly, then don't hesitate to contact me. I am always eager to collaborate with others and to take on new challenges in the tech industry.
 
 
+
 ## 🛠️ Technologies and Tools I use: 
 
 ![HTml5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,10 +21,12 @@ If you are looking for a skilled and experienced frontend developer to create a 
 ![Typescript](https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=0081CB)
 
 
+
 ## 🤙 Reach me
 
 [![Gmail](https://img.shields.io/badge/davearonmwan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davearonmwan@gmail.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvng__dave)
+
 
 
 ## 👨🏻‍💻 What else to know about me...
@@ -39,9 +42,8 @@ If you are looking for a skilled and experienced frontend developer to create a 
 🤝 I am open to collaborations on project and ideas
 
 
-## 📊 My GitHub Stats
-[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)](https://github.com/d-a-ve/github-readme-stats)
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
+## 📊 My GitHub Stats
+[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)](https://github.com/d-a-ve/github-readme-stats) ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
 
 ![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-a-ve&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
