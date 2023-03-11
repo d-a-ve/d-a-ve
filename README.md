@@ -40,11 +40,8 @@ If you are looking for a skilled and experienced frontend developer to create a 
 
 
 ## 📊 My GitHub Stats
-[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue#gh_light_only)](https://github.com/d-a-ve/github-readme-stats)
-[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue_dark#gh-dark-only)](https://github.com/d-a-ve/github-readme-stats)
+[![Dave's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-a-ve&layout=compact&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)](https://github.com/d-a-ve/github-readme-stats)
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue#gh_light_only)
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue_dark#gh-dark-only)
+![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-a-ve&show_icons=true&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
 
-![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-a-ve&theme=vue#gh_light_only)
-![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-a-ve&theme=vue_dark#gh-dark-only)
+![Dave's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=d-a-ve&theme=vue#gh_light_only&theme=vue_dark#gh-dark-only)
