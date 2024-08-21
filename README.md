@@ -2,9 +2,7 @@
 # Hi there, Welcome! 👋
 
 
-I'm Dave, a frontend developer based in Nigeria. Since February 2022, I have been working in the tech industry dedicating my time to learning and creating visually appealing and user-friendly websites and web apps.
-
-My goal as a frontend developer is to create interfaces that provide an exceptional user experience. I strive to ensure that every design decision I make is based on creating an interface that is easy to use and enhances the overall user experience.
+I'm Dave, a frontend developer based in Nigeria. My goal as a frontend developer is to create interfaces that provide an exceptional user experience. I strive to ensure that every design decision I make is based on creating an interface that is easy to use and enhances the overall user experience.
 
 If you are looking for a skilled and experienced frontend developer to create a web application or a website that is both visually appealing and user-friendly, then don't hesitate to contact me. I am always eager to collaborate with others and to take on new challenges in the tech industry.
 
@@ -31,11 +29,11 @@ If you are looking for a skilled and experienced frontend developer to create a 
 
 ## 👨🏻‍💻 What else to know about me...
 
-🧠 I'm currently learning Animations and API integrations
+🧠 I'm currently learning layered system architecture and how to write clean code.
 
-🤔 I'm looking for information about APIs that can be used for anime quiz or for anime information
+🤔 I'm looking for information about APIs that can be used for anime quiz or for anime information.
 
-💬 Ask me about anything frontend development
+💬 Ask me about anything html, css, and react.
 
 ⚡️ Fun fact **I am a weeb**
 
